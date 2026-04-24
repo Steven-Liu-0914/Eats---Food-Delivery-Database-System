@@ -7,7 +7,7 @@ This repository is created for the NTU Course IN6205 (Database Systems) group pr
 To fully replicate our database environment and run the presentation demo, please follow these steps exactly in order:
 
 ### Step 1: Environment Setup
-* Run `setup.sql` first. 
+* Run `Eats_setup.sql` first. 
 * *What this does:* This script will automatically create the database schema, build all necessary tables, configure pre-setup constraints, and inject realistic dummy data for testing.
 
 ### Step 2: Run the Demo Stories
